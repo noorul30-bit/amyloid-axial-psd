@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release."
+title: "Amyloid Axial PSD"
+type: software
+version: 1.0.0
+
+authors:
+  - given-names: Noorul
+    family-names: Huda
+    orcid: "https://orcid.org/0000-0003-1088-608X"
+
+abstract: >
+  Python tool for estimating the axial cross-beta repeat from selected
+  cryo-EM 2D class averages using one-dimensional power spectral density
+  analysis.
+
+keywords:
+  - cryo-EM
+  - amyloid
+  - helical reconstruction
+  - power spectral density
+  - cryoSPARC
+  - Fourier analysis
+
+repository-code: "https://github.com/noorul30-bit/amyloid-axial-psd"
