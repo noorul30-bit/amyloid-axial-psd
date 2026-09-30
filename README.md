@@ -69,8 +69,13 @@ The effective pixel size stored in the MRC header is used by default. If the hea
 
 ## Citation
 
-A permanent DOI and software citation will be added after archival of version 1.0.0 on Zenodo.
+If you use this software, please cite:
 
+Huda, N. (2026). *Amyloid Axial PSD* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23045948
+
+Version 1.0.0 DOI: https://doi.org/10.5281/zenodo.23045948
+
+All versions: https://doi.org/10.5281/zenodo.23045947
 ## License
 
 License information will be added before the first public software release.
